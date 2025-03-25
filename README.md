@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Karim
-## 📫 Let's Connect!
+## 👋 Hi, I'm Karim
 I have no idea why this works. You better don't touch it.
+
+Some decorations below.
 
 ## 💻 My Favorite Tools and Technologies
 
