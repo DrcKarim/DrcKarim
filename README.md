@@ -1,4 +1,6 @@
 ## 👋 Hi, I'm Karim
+I've recently started using GitHub. 
+
 I have no idea why this works. You better don't touch it.
 
 Some decorations below.
@@ -19,6 +21,7 @@ Some decorations below.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
