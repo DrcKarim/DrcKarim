@@ -3,7 +3,7 @@ I've recently started using GitHub.
 
 ![laugh](https://github.com/user-attachments/assets/99655a4a-59d4-441b-80a3-ac9fbbd50be3)
 
-
+I'm just kidding 👆
 ## 💻 My Favorite Tools and Technologies
 
 ### Familiar Languages:
