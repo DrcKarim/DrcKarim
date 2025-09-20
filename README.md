@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Karim
 I've recently started using GitHub. 
 
-I have no idea why this works. You better don't touch it.
+![laugh](https://github.com/user-attachments/assets/99655a4a-59d4-441b-80a3-ac9fbbd50be3)
 
-Some decorations below.
 
 ## 💻 My Favorite Tools and Technologies
 
