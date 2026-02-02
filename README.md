@@ -42,9 +42,9 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
+<!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrcKarim&show_icons=true&theme=default)
-
+-->
 
 <!--
 🎓 **Master's student in Data & Artificial Intelligence at ESILV - Paris**  
