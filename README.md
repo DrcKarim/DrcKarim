@@ -1,6 +1,7 @@
 ## Hi, I'm Karim
-# I’ve been a long-time GitLab fan and recently switched to GitHub. I hope it turns out better. 
 <!--
+# I’ve been a long-time GitLab fan and recently switched to GitHub. I hope it turns out better. 
+
 ![laugh](https://github.com/user-attachments/assets/99655a4a-59d4-441b-80a3-ac9fbbd50be3)
 
 ## I'm just kidding 👆
